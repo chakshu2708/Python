@@ -1,0 +1,1 @@
+#Check how many times a given number can be divided by 6 before it is less than or equal to 10.
